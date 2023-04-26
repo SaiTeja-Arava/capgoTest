@@ -1,6 +1,6 @@
 {
 	"name": "app",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
@@ -24,6 +24,7 @@
 		"@capacitor/cli": "^4.7.3",
 		"@capacitor/core": "^4.7.3",
 		"@capacitor/ios": "^4.7.3",
-		"@capgo/capacitor-updater": "^4.51.0"
+		"@capgo/capacitor-updater": "^4.51.0",
+		"@sveltejs/adapter-static": "^2.0.2"
 	}
 }
